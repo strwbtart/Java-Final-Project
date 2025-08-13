@@ -80,4 +80,12 @@ Make sure you have the Java Development Kit (JDK) installed on your machine.
 
 ## Author ✍️
 
-  * **Group Members:** Emma Pacheco & Carolina Cantu-Garcia
+  **Group Members:** Emma Pacheco & Carolina Cantu-Garcia
+
+## User Stories
+
+  As a user, I should be able to press number buttons so that I can input numerical values for a calculation.
+
+  As a user, I should be able to press an operator button (+, -, *, /) so that I can specify the type of calculation I want to perform.
+
+  As a user, I should be able to press the equals button so that I can see the result of the calculation.
