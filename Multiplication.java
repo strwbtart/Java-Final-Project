@@ -1,8 +1,9 @@
-// Extends Operation for multiplication.
-//----------------------------------------------
+// And again, for multiplication.
+// We're filling in the "perform" method from the Operation blueprint.
+
 public class Multiplication extends Operation {
-    // Our 'perform' method for multiplication.
-    
+    // This method multiplies the two numbers. Easy!
+    @Override
     public double perform(double num1, double num2) {
         return num1 * num2;
     }
